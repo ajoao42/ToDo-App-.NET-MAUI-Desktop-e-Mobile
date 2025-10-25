@@ -27,8 +27,8 @@ O app consome a **ToDo API (ASP.NET Core)** e oferece uma interface moderna para
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/ajoao42/todo-maui-app.git
-cd todo-maui-app
+git clone https://github.com/ajoao42/ToDo-App-.NET-MAUI-Desktop-e-MobilePublic.git
+cd ToDo-App-.NET-MAUI-Desktop-e-MobilePublic
 
 # Restaurar dependências
 dotnet restore
